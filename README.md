@@ -30,6 +30,12 @@ The automation receives lead data and decides what path to follow depending on t
 > ✅ Project completed as a **personal learning challenge**.  
 > 🛠️ Still not in production — made for testing workflows, logic structuring, and tool integration.
 
+## 🎥 Demonstration Video
+
+Watch the video explaining the full automation workflow:
+
+[▶️ Click here to watch on YouTube](https://youtu.be/kREeLHnQQzU)
+
 ---
 
 Built with 💡 by **Nikolas Alexi**  
